@@ -3,9 +3,32 @@
     "7960": {
       "fake_screens_android": false,
       "fake_screens_ios": false,
-      
       "disappear_pay_android": false,
       "disappear_pay_ios": true
+    },
+    "4470": {
+      "show_carats": {
+        "carat_24": true,
+        "carat_22": true,
+        "carat_21": true,
+        "carat_18": true,
+        "carat_14": true,
+        "carat_12": true
+      },
+      "news": [
+        {
+          "id": "0",
+          "title": "test title",
+          "content": "test content",
+          "date": "2023-06-23 19:28:33.151"
+        },
+        {
+          "id": "1",
+          "title": "test title 2",
+          "content": "test content 2",
+          "date": "2023-06-23 19:31:22.155"
+        }
+      ]
     }
   }
 }
