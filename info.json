@@ -4,7 +4,9 @@
       "fake_screens_android": false,
       "fake_screens_ios": false,
       "disappear_pay_android": false,
-      "disappear_pay_ios": true
+      "disappear_pay_ios": true,
+      "disappear_auth_ios": true,
+      "disappear_auth_android": false
     },
     "4470": {
       "show_adv": true,
