@@ -41,7 +41,7 @@
         }
       ],
       "html_info_gold_price":{
-        "url": "https://banklive.net/en/gold-price-today-in-egypt",
+        "url": "https://banklive.net/gold-price-today-in-egypt",
         "is_tag_name": true,
         "tag_or_class": "td",
         "start": 1,
